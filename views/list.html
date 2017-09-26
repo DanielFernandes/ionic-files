@@ -1,0 +1,38 @@
+<ion-view>
+    <ion-content padding="true" class="manual-remove-top-padding">
+        <div class="wrapper">
+            <div class="header-img">
+                <img src="../img/apprentices.png">
+            </div>
+            <label class="item item-input">
+                <i class="icon ion-android-search placeholder-icon"></i>
+                <input type="text" placeholder="Search" ng-model="search">
+            </label>
+
+            <ion-list class="list">
+                
+                <div class="item item-divider" ng-if="filteredItems.length > 0">Documents</div>
+                <a ng-repeat="item in documents_data | filter:search as filteredItems" ui-sref="item({ id: item.id})" class="item item-icon-left item-icon-right">
+                    <i class="icon fa {{ item.icon }}"></i>
+                    <h2>{{ item.title }}</h2>
+                    <h4>{{ item.description }}</h4>
+                    <i class="icon ion-ios-arrow-right"></i>
+                </a>
+                
+                <div class="item item-divider" ng-if="filteredItems.length > 0">Links</div>
+                <a ng-repeat="item in links_data | filter:search" href="{{item.itemUrl}}" target="_blank" rel="external" class="item item-icon-left item-icon-right">
+                    <i class="icon fa {{ item.icon }}"></i>
+                    <h2>{{ item.title }}</h2>
+                    <h4>{{ item.description }}</h4>
+                    <i class="icon ion-ios-arrow-right"></i>
+                </a>
+            </ion-list>  
+            <!--/list-->
+            
+            <div class="logo">
+                <img src="img/iss-logo.png">
+            </div>
+        </div>
+        <!--/wrapper-->
+    </ion-content>
+</ion-view>

@@ -1,0 +1,202 @@
+{
+  "documents": [
+    {
+      "id": "1",
+      "title": "People guide",
+      "description": "Absence Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=6",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "2",
+      "title": "People guide",
+      "description": "Adoption Leave Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=13",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "3",
+      "title": "People guide",
+      "description": "Anti - Bribery and Corruption Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=17",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "4",
+      "title": "People guide",
+      "description": " Anti - Slavery and Human Trafficking Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=22",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "5",
+      "title": "People guide",
+      "description": "Criminal Checks Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=24",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "6",
+      "title": "People guide",
+      "description": "Disciplinary Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=27",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "7",
+      "title": "People guide",
+      "description": " Diversity, Dignity and Inclusion Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=37",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "8",
+      "title": "People guide",
+      "description": "Dress, Appearance & Personal Hygiene Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=46",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "9",
+      "title": "People guide",
+      "description": " Drugs and Alcohol Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=50",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "10",
+      "title": "People guide",
+      "description": "Drugs and Alcohol Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=51",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "11",
+      "title": "People guide",
+      "description": "Flexible Working Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=54",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "12",
+      "title": "People guide",
+      "description": "Grievance Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=58",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "13",
+      "title": "People guide",
+      "description": " IT (Internet and email) Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=62",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "14",
+      "title": "People guide",
+      "description": "Maternity Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=66",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "15",
+      "title": "People guide",
+      "description": "(Ordinary) Parental Leave Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=72",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "16",
+      "title": "People guide",
+      "description": "(Shared) Parental Leave Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=75",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "17",
+      "title": "People guide",
+      "description": "Paternity Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=83",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "18",
+      "title": "People guide",
+      "description": "Performance and Capability Management Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=85",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "19",
+      "title": "People guide",
+      "description": "Pre-Employment Screening Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=89",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "20",
+      "title": "People guide",
+      "description": "Recruitment Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=95",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "21",
+      "title": "People guide",
+      "description": "Redundancy Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=97",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "22",
+      "title": "People guide",
+      "description": "Relationships at Work Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=103",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "23",
+      "title": "People guide",
+      "description": "Reservists Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=106",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "24",
+      "title": "People guide",
+      "description": "Social Media Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=112",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "25",
+      "title": "People guide",
+      "description": "Third Party Pressure Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=116",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "26",
+      "title": "People guide",
+      "description": "TUPE Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=118",
+      "icon": "fa-file-pdf-o"
+    },
+    {
+      "id": "27",
+      "title": "People guide",
+      "description": "Whistleblowing/Speak Up Policy",
+      "itemUrl": "//iss-uk.me/pdf/?file=upload/files/people-guide.pdf#page=122",
+      "icon": "fa-file-pdf-o"
+    }
+  ],
+  "links": [
+    {
+      "id": "1",
+      "title": "Some external link",
+      "description": "Some text here",
+      "itemUrl": "//www.google.co.uk",
+      "icon": "fa-link"
+    }
+  ]
+}

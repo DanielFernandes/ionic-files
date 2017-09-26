@@ -1,0 +1,14 @@
+<ion-view>
+    <ion-nav-bar class="bar-dark ui-shadow">
+    <ion-nav-back-button></ion-nav-back-button>
+    </ion-nav-bar>
+    <ion-content padding="false" class="has-header" style="background:#474747!important">
+
+        <div ng-repeat="item in documents_data | filter: { id: document_detail }" class="loader" style="padding:0;">
+            <iframe ng-src="{{ item.itemUrl | iframeUrl }}" frameborder="0" width="100%" height="{{ device_height }}px"></iframe>
+        </div>
+        
+        
+
+    </ion-content>
+</ion-view>
